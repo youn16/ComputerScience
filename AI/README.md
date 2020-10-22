@@ -5,4 +5,4 @@
 ## 목록
   1. [인공지능 개요](./AI_overview.md)
 
-  2. [딥러닝](./DeapLearning.md)
+  2. [딥러닝](./DepLearning.md)
