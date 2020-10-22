@@ -6,4 +6,4 @@
     - 클라우드의 유연성
     - 클라우드 트랜드
     
-2. [클라우드 Model](./cloud_model.md)
+2. [클라우드 모델](./cloud_model.md)
