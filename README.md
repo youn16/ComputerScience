@@ -1,10 +1,10 @@
 # Computer_Science
 
-## [Cloud](./Cloud/README.md)
+## 1. [Cloud](./Cloud/README.md)
 
-## [Data Analysis](./DataAnalysis/README.md)
+## 2. [Data Analysis](./DataAnalysis/README.md)
 
-## [AI](./AI/README.md)
+## 3. [AI](./AI/README.md)
 
-## Network
+## 4. Network
 [인터넷과 웹](http://tcpschool.com/webbasic/works)
