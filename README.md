@@ -1,4 +1,6 @@
 # Computer_Science
+학교 수업을 들으며, 따로 전공 공부를 정리하면서 모으고 정리한 내용입니다.<br>
+저를 위해 만들었지만, 누군가에게도 도움이 되었으면 좋겠어요!<br>
 
 ## 1. [Cloud](./Cloud/README.md)
   클라우드에 관한 기초 지식 모음
@@ -14,3 +16,6 @@
 
 ## 5. [InforSec](./InforSec/README.md)
   정보보안에 대한 기초 지식 모음
+
+## 6. [DataStructure](./DataStructure/README.md)
+  자료구조에 대한 기초 지식 모음
