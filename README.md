@@ -19,3 +19,6 @@
 
 ## 6. [DataStructure](./DataStructure/README.md)
   자료구조에 대한 기초 지식 모음
+
+## 7. [Computer Architecture](./ComputerArchitecture/README.md)
+  컴퓨터 구조(논리회로 포함)에 대한 기초 지식 모음
