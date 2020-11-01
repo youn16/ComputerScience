@@ -22,3 +22,12 @@
 
 ## 7. [Computer Architecture](./ComputerArchitecture/README.md)
   컴퓨터 구조(논리회로 포함)에 대한 기초 지식 모음
+
+## 8. [OS](./OS/README.md)
+  운영체제에 대한 기초 지식 모음
+
+## 9. [Database](./Database/README.md)
+  데이터베이스에 대한 기초 지식 모음
+
+## 10. [Programming](./Programming/README.md)
+  프로그래밍에 대한 기초 지식 모음
