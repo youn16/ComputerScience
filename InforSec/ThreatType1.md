@@ -39,7 +39,7 @@
 ## 5. 서비스 거부 공격DoS(Denial of Service)
 
 ### 1. Ping of Death Attack 
-- ICMP 패킷을 크게 많이
+- ICMP 패킷을 크게 많이보내 오버플로우를 발생시키는 것.
 
 ### 2. Land Attack
 - 출발지와 목적지가 같은 패킷
