@@ -15,7 +15,7 @@
 > 트랜잭션 실행 중 데이터베이스가 손상된 경우 손상 이전의 정상 상태로 복구하는 작업
 
 ### 회복 기법의 종류
-
+- [자세한내용](https://youn16.github.io/cs/database/2020/11/14/DB_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%ED%9A%8C%EB%B3%B5/#more)
 - 즉시 갱신(Immediate Update)
   - 트랜잭션 연산 중 데이터의 변경 결과를 데이터베이스에 즉시 반영
   - 회복 시 undo 연산, redo 연산
