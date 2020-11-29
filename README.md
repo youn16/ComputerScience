@@ -36,3 +36,6 @@
   프로그래밍에 대한 기초 지식 모음
   - [자바](./Programming/Java/README.md)
   - [C&C++](./Programming/CnCpp/README.md)
+
+## 11. [Software Engineering](./SoftwareEngineering/README.md)
+  소프트웨어 공학에 대한 기초 지식 모음
